@@ -1,3 +1,10 @@
+-----------={ Description }=-----------
+
+# Virtual Environments or VENV is used to make isolated python instances to prevent cluttering of packages.
+
+
+-----------={ Commands }=-----------
+
 # Before executing commands, first go to desired folder. Example: 
 cd .\Projekt2
 
