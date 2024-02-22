@@ -1,0 +1,2 @@
+# Run the flask program.
+flask run

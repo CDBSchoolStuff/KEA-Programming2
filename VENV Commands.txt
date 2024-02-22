@@ -1,4 +1,7 @@
-# Creates a virtual environment:
+# Before executing commands, first go to desired folder. Example: 
+cd .\Projekt2
+
+# Create a virtual environment:
 python -m venv venv
 
 # Activate the virtual environment:
@@ -9,3 +12,6 @@ deactivate
 
 # Install packages to virtual environment from requirements.txt file:
 pip install -r requirements.txt
+
+# Virtual environments should be excluded from git using a ".gitignore" file. 
+# A "requirements.txt" file should be used instead to define required dependencies for the program.
